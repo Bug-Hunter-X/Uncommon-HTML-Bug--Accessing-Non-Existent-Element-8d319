@@ -1,0 +1,1 @@
+This repository demonstrates a subtle HTML/JavaScript bug involving incorrect DOM manipulation.  The bug occurs when trying to modify the `innerHTML` property of an element that doesn't exist in the DOM.  The solution shows how to correctly check for the element's existence before attempting to modify it.
